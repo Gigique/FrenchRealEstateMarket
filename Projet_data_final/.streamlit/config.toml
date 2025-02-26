@@ -1,0 +1,7 @@
+[theme]
+
+primaryColor = "#FFCC80"  # Couleur des éléments interactifs (ex: boutons)
+backgroundColor = "#FFFFFF"  # Fond de la page principale
+secondaryBackgroundColor = "#FFE0B2"  # Couleur de fond des cartes et sections secondaires
+textColor = "#000000"  # Couleur du texte
+font = "sans serif"  # Police (options possibles : "serif", "sans serif")
